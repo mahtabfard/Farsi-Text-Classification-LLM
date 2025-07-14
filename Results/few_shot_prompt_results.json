@@ -1,0 +1,17 @@
+{
+  "prompt1": {
+    "accuracy": 0.81,
+    "correct": 81,
+    "total": 100
+  },
+  "prompt2": {
+    "accuracy": 0.78,
+    "correct": 78,
+    "total": 100
+  },
+  "prompt3": {
+    "accuracy": 0.81,
+    "correct": 81,
+    "total": 100
+  }
+}
